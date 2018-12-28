@@ -6,9 +6,10 @@
 /******************************
 Dynamic array / vector
 supports the following properties standard library vector:
--dynamic growth/memory allocation
+-dynamic growth/memory allocation and random access operator[]
 -push_back, begin, end, and size member functions
 -Default constructor, fill constructor, copy constructor, destructor
+-random access iterators
 -back_inserter
 *******************************/
 
